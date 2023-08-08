@@ -42,3 +42,11 @@ Run `nox`
    ```
 
 this should install a Sphinx environment and build the site, putting the output files in `_build/html`. -->
+# Profile Website
+
+Welcome to my profile webiste, My target audience is people interested in computer science
+<!-- enter your target audience after the comma above -->
+
+Since you're here, you might be: someone trying to gain more information on Computer Science, Looking to see who else is majoring in the same subject or just someone really curious.
+<!-- make a bulleted list of 3 fictional visitors to your site. Include a few detials about them that could impact how you design for them. For each visitor, assign a task or goal they have for visiting your profile website --> 
+
